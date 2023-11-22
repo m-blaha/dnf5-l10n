@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-22 08:35+0000\n"
+"POT-Creation-Date: 2023-11-07 11:21+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,20 +17,10 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: repoclosure.cpp:45
-msgid "Print list of unresolved dependencies for repositories"
+#: rhsm.cpp:97
+msgid "Missing path to repository configuration directory"
 msgstr ""
 
-#: repoclosure.cpp:150
-msgid "No match for argument \"{}\"."
-msgstr ""
-
-#: repoclosure.cpp:156
-msgid "Failed to resolve package specifications."
-msgstr ""
-
-#: repoclosure.cpp:211
-msgid ""
-"Error: Repoclosure ended with unresolved dependencies ({}) across {} "
-"packages."
+#: rhsm.cpp:134
+msgid "Cannot save repository configuration to file \"{}\": {}"
 msgstr ""
